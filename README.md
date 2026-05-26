@@ -182,4 +182,4 @@ Apache 2.0 — see [LICENSE](./LICENSE).
 
 *Luc K. SEGBEDZI — AI Systems Engineer & Blockchain Architect*
 *Founder, MGS (MA Group Solutions) · Lomé, Togo*
-*[luc.dev](https://luc.dev) · [github.com/Komluc](https://github.com/Komluc)*
+*[lucsegbedzi.dev](https://lucsegbedzi.dev) · [github.com/Komluc](https://github.com/Komluc)*
